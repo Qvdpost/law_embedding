@@ -1,0 +1,671 @@
+1557316587669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AbvNWTWg6Mt4"
+1557316587973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557316587973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557316587973	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557316589365	Marionette	INFO	Listening on port 43585
+1557316589384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1557316591406	Marionette	INFO	Stopped listening on port 43585
+[Parent 5217, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557316645192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uMpgGJjuMiEU"
+1557316645486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557316645486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557316645486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557316646740	Marionette	INFO	Listening on port 41405
+1557316646804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 5519, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 5519, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557316660160	Marionette	INFO	Stopped listening on port 41405
+1557317532777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R9zKjpNwmkwf"
+1557317533064	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317533065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317533065	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317534437	Marionette	INFO	Listening on port 42297
+1557317534483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 6778, Gecko_IOThread] WARNING: pipe error (156): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 6778, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 6778, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557317713496	Marionette	INFO	Stopped listening on port 42297
+1557317715671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aeaM3xq0JwfD"
+1557317715954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317715954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317715954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317717280	Marionette	INFO	Listening on port 45015
+1557317717380	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557317746683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ogp3ApGIPrhz"
+1557317746986	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317746987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317746987	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317748281	Marionette	INFO	Listening on port 38849
+1557317748290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 7421, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557317751756	Marionette	INFO	Stopped listening on port 45015
+[Parent 7702, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557317753899	Marionette	INFO	Stopped listening on port 38849
+1557317782026	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.brrv7HkpnCCc"
+1557317782454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317782454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317782454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317783833	Marionette	INFO	Listening on port 36657
+1557317783937	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557317901448	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0jkYNhKTmrqv"
+1557317901739	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317901740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317901740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317903267	Marionette	INFO	Listening on port 41933
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 23: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+1557317903418	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: 
+  [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIAppShellService.hiddenDOMWindow]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/DownloadsManager.jsm :: init :: line 44"  data: no]: init@resource://activity-stream/lib/DownloadsManager.jsm:44:5
+postInit@resource://activity-stream/lib/HighlightsFeed.jsm:60:5
+handler@resource://gre/modules/EventEmitter.jsm:94:11
+emit@resource://gre/modules/EventEmitter.jsm:149:11
+init@resource://activity-stream/lib/SectionsManager.jsm:119:5
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 834: Error: Connection is not open.
+1557317903620	Marionette	INFO	Stopped listening on port 41933
+[Parent 8002, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557317905187	Marionette	INFO	Stopped listening on port 36657
+1557317906608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6iB96qAN1vwL"
+1557317906889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557317906890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557317906890	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557317908281	Marionette	INFO	Listening on port 37661
+1557317908349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557318010119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tsJg8OCSUOLq"
+1557318010409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318010409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318010409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318011674	Marionette	INFO	Listening on port 44063
+1557318011734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557318304309	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8LiJxZakQttG"
+1557318304627	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318304628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318304628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318305972	Marionette	INFO	Listening on port 40257
+1557318306015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 8986, Gecko_IOThread] WARNING: pipe error (105): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557318311915	Marionette	INFO	Stopped listening on port 44063
+[Parent 8617, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557318312326	Marionette	INFO	Stopped listening on port 37661
+1557318820011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EZOIZShnLbEh"
+1557318820305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318820306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318820306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318821610	Marionette	INFO	Listening on port 36733
+1557318821621	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557318827792	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.RJRPG1aFG72D"
+1557318828111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318828111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318828111	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318829540	Marionette	INFO	Listening on port 36721
+1557318829610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 724: TypeError: docShell.failedChannel is null
+[Parent 10361, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557318836955	Marionette	INFO	Stopped listening on port 36721
+1557318848640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uPj9KxjpBsTQ"
+1557318848951	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318848952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318848952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318850404	Marionette	INFO	Listening on port 40945
+1557318850449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557318856204	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.IQNV8wAV6Y5n"
+1557318856545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318856545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318856545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318857896	Marionette	INFO	Listening on port 46543
+1557318857926	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557318989022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ux9yrGQ9EJ9a"
+1557318989344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557318989344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557318989344	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557318990710	Marionette	INFO	Listening on port 46031
+1557318990734	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557319028421	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.zzxwFZmul1Q3"
+1557319028761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319028762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319028762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319030473	Marionette	INFO	Listening on port 40957
+1557319030539	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9399, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319033801	Marionette	INFO	Stopped listening on port 40257
+1557319034392	Marionette	INFO	Stopped listening on port 36733
+[Parent 10643, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319035735	Marionette	INFO	Stopped listening on port 40945
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 10911, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319037975	Marionette	INFO	Stopped listening on port 46543
+[Parent 11286, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319039713	Marionette	INFO	Stopped listening on port 46031
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557319142192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ub7cyU0Q8Ust"
+1557319142517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319142517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319142517	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319143947	Marionette	INFO	Listening on port 36333
+1557319144003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 11995, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 11995, Gecko_IOThread] WARNING: pipe error (80): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319170392	Marionette	INFO	Stopped listening on port 36333
+[Parent 11587, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319172217	Marionette	INFO	Stopped listening on port 40957
+1557319218712	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.QeeYeOgBdPmZ"
+1557319219013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319219014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319219014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319220315	Marionette	INFO	Listening on port 37735
+1557319220328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 12305, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12305, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319226715	Marionette	INFO	Stopped listening on port 37735
+1557319245139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.xXGIuYQzsrBL"
+1557319245430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319245431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319245431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319246708	Marionette	INFO	Listening on port 43621
+1557319246750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557319528742	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yGhRcf5P0Iek"
+1557319529040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319529041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319529041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319530455	Marionette	INFO	Listening on port 44925
+1557319530552	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 13096, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319617475	Marionette	INFO	Stopped listening on port 44925
+[Parent 12626, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 12626, Gecko_IOThread] WARNING: pipe error (77): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319618631	Marionette	INFO	Stopped listening on port 43621
+1557319625610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Aw0eNEdnQNu1"
+1557319625895	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319625896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319625896	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319627313	Marionette	INFO	Listening on port 38995
+1557319627319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 13406, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557319913646	Marionette	INFO	Stopped listening on port 38995
+1557319916034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ItaUEvkh3fX3"
+1557319916336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557319916336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557319916336	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557319917720	Marionette	INFO	Listening on port 45795
+1557319917742	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557319998771	Marionette	INFO	Stopped listening on port 45795
+1557320001743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SQE5T3dzTAws"
+1557320002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557320002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557320002053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557320006020	Marionette	INFO	Listening on port 42477
+1557320006068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript error: https://uitspraken.rechtspraak.nl/Scripts/libs/require/require.js, line 163: Error: Script error for: handlebars
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+1557320062256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gsuoV2PGFcUt"
+1557320062568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557320062568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557320062568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557320063851	Marionette	INFO	Listening on port 33825
+1557320063863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript error: https://uitspraken.rechtspraak.nl/Scripts/libs/backbone/backbone.js, line 382: TypeError: _ is undefined
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+[Parent 14394, Gecko_IOThread] WARNING: pipe error (82): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557320071029	Marionette	INFO	Stopped listening on port 33825
+1557320080635	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.h8GcRUGM9RR4"
+1557320080929	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557320080930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557320080930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557320082473	Marionette	INFO	Listening on port 34025
+1557320082541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 14701, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 14701, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557320090695	Marionette	INFO	Stopped listening on port 34025
+1557320096832	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Vl46ExQpOEwy"
+1557320097165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557320097165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557320097165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557320098620	Marionette	INFO	Listening on port 44535
+1557320098641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557320107461	Marionette	INFO	Stopped listening on port 44535
+[Parent 14076, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557320129990	Marionette	INFO	Stopped listening on port 42477
+1557320363520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rOKBc1xTfIbX"
+1557320363821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557320363821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557320363821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557320365096	Marionette	INFO	Listening on port 41843
+1557320365135	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 15437, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557320512023	Marionette	INFO	Stopped listening on port 41843
+1557321033460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UYNEmXlOAK6n"
+1557321033778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321033778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321033778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321035086	Marionette	INFO	Listening on port 43329
+1557321035171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557321105073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H9L2DQ3H4ZJm"
+1557321105362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321105362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321105362	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321106690	Marionette	INFO	Listening on port 39719
+1557321106788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557321130897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.b87QW10FQfGe"
+1557321131223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321131223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321131223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321132693	Marionette	INFO	Listening on port 37943
+1557321132708	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 16253, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557321134450	Marionette	INFO	Stopped listening on port 43329
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 16625, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557321138607	Marionette	INFO	Stopped listening on port 39719
+[Parent 16913, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557321139241	Marionette	INFO	Stopped listening on port 37943
+1557321179363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MgJiWJwv631J"
+1557321179786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321179786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321179786	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321181143	Marionette	INFO	Listening on port 41927
+1557321181181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557321251089	Marionette	INFO	Stopped listening on port 41927
+1557321292976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.R1Ktvo30ZwD7"
+1557321293296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321293296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321293296	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321294712	Marionette	INFO	Listening on port 33129
+1557321294782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557321774895	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qT2MFx9etrvZ"
+1557321775203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557321775203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557321775203	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557321776551	Marionette	INFO	Listening on port 46287
+1557321776608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 17584, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557321901447	Marionette	INFO	Stopped listening on port 33129
+[Parent 18089, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 18089, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557321988504	Marionette	INFO	Stopped listening on port 46287
+1557322552177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tU0OqHlmzo6T"
+1557322552485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557322552485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557322552485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557322553782	Marionette	INFO	Listening on port 35693
+1557322553892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557322574197	Marionette	INFO	Stopped listening on port 35693
+1557322813028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7CZcafsJEI0d"
+1557322813339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557322813340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557322813340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557322814691	Marionette	INFO	Listening on port 34663
+1557322814744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557322917252	Marionette	INFO	Stopped listening on port 34663
+1557322919352	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Q8BksdeW3nRD"
+1557322919649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557322919649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557322919649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557322921008	Marionette	INFO	Listening on port 34399
+1557322921061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 20119, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557323015465	Marionette	INFO	Stopped listening on port 34399
+1557323016790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TWCRZjwMw72Q"
+1557323017106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323017106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323017106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323018446	Marionette	INFO	Listening on port 45135
+1557323018498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557323061453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pyLbZ6iCXGJo"
+1557323061772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323061772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323061772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323063184	Marionette	INFO	Listening on port 39999
+1557323063259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557323097638	Marionette	INFO	Stopped listening on port 39999
+[Parent 20592, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557323098620	Marionette	INFO	Stopped listening on port 45135
+1557323100104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FgqaysBmN3T6"
+1557323100400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323100400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323100401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323102132	Marionette	INFO	Listening on port 38383
+1557323102243	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557323320576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.x8wJHsHWw4kB"
+1557323320889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323320889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323320889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323322316	Marionette	INFO	Listening on port 38403
+1557323322386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 22076, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557323746243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.g4LhssVVorJi"
+1557323746536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323746536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323746536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323747966	Marionette	INFO	Listening on port 46091
+1557323748054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557323769412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.tNguGgjOIGUD"
+1557323769719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323769719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323769719	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323771240	Marionette	INFO	Listening on port 46825
+1557323771321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 22596, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557323773570	Marionette	INFO	Stopped listening on port 46091
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557323956024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4u8ownJO7rEj"
+1557323956348	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323956349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323956349	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323957773	Marionette	INFO	Listening on port 38773
+1557323957832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1557323989551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mIINtu88HmPo"
+1557323989846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557323989846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557323989846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557323991140	Marionette	INFO	Listening on port 46387
+1557323991160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557324028500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LU1Hz5vinP3T"
+1557324028788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557324028788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557324028788	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557324030090	Marionette	INFO	Listening on port 39057
+1557324030112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23608, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557324031243	Marionette	INFO	Stopped listening on port 46387
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557324211175	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2R9ZX3feb8bu"
+1557324211495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557324211495	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557324211496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557324212805	Marionette	INFO	Listening on port 42723
+1557324212882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557324214574	Marionette	INFO	Stopped listening on port 39057
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+1557324351343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CjodbXAb1QHC"
+1557324351649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557324351649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557324351649	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557324352966	Marionette	INFO	Listening on port 44623
+1557324353053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557324688119	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.toAXyXt3fflP"
+1557324688421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557324688421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557324688421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557324689729	Marionette	INFO	Listening on port 34101
+1557324689836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557324703377	Marionette	INFO	Stopped listening on port 42723
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557324975078	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.2tg18K5ydOc6"
+1557324975401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557324975401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557324975401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557324976706	Marionette	INFO	Listening on port 32851
+1557324976788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25813, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557325084084	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.H6XLZAik2O84"
+1557325084407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325084407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325084407	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325085894	Marionette	INFO	Listening on port 38569
+1557325085904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557325347020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8o7iLKHRaGV4"
+1557325347322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325347322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325347322	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325348625	Marionette	INFO	Listening on port 34909
+1557325348735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557325395825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.CgCZ4Jb4mxq0"
+1557325396127	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325396128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325396128	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325397626	Marionette	INFO	Listening on port 33623
+1557325397626	Marionette	INFO	Stopped listening on port 34909
+1557325397638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557325418249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cW2SCcONUXXb"
+1557325418541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325418541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325418541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325419857	Marionette	INFO	Listening on port 37335
+1557325419957	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 26754, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325422848	Marionette	INFO	Stopped listening on port 33623
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 27208, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+Exiting due to channel error.
+Exiting due to channel error.
+1557325449797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KiWA1j80qa3G"
+1557325450132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325450133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325450133	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325451727	Marionette	INFO	Listening on port 40949
+1557325451824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1557325478289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Jrql0IIMSJQl"
+1557325478595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325478595	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325478596	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325479992	Marionette	INFO	Listening on port 46093
+1557325480003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 27621, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 27621, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325491602	Marionette	INFO	Stopped listening on port 46093
+1557325500648	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yJpsniTVrxp0"
+1557325500952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325500952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325500952	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325502311	Marionette	INFO	Listening on port 45761
+1557325502358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557325586359	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.EakHiSmiZpPc"
+1557325586661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325586661	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325586662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325587987	Marionette	INFO	Listening on port 37817
+1557325588073	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 28237, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 28237, Gecko_IOThread] WARNING: pipe error (126): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325615180	Marionette	INFO	Stopped listening on port 37817
+[Parent 27905, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325616532	Marionette	INFO	Stopped listening on port 45761
+1557325776954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9RssAtcz4DCq"
+1557325777259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325777259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325777259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325778613	Marionette	INFO	Listening on port 34297
+1557325778672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 28675, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325789694	Marionette	INFO	Stopped listening on port 34297
+1557325799370	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eVVqdlhGTb7C"
+1557325799675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557325799675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557325799675	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557325801048	Marionette	INFO	Listening on port 36031
+1557325801084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 28973, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557325954917	Marionette	INFO	Stopped listening on port 36031
+1557326113222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BRz6JCXjbfqo"
+1557326113525	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557326113526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557326113526	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557326114831	Marionette	INFO	Listening on port 35359
+1557326114934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+1557326162251	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pBOXYCx4KlMQ"
+1557326162555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1557326162556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1557326162556	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1557326163899	Marionette	INFO	Listening on port 34889
+1557326163970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uitspraken.rechtspraak.nl/SharedWebResources.axd?js/Rechtspraak/js/MWM2Popup.js, line 431: unreachable code after return statement
+[Parent 29540, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 29540, Gecko_IOThread] WARNING: pipe error (67): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557326185308	Marionette	INFO	Stopped listening on port 35359
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Parent 29895, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-6m4fHv/firefox-66.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1557327797524	Marionette	INFO	Stopped listening on port 34889
