@@ -23,18 +23,20 @@ nlp = nl_core_news_sm.load()
 def contains_digits(d):
     return bool(_digits.search(d))
 
-# with open(os.path.join(DATA_FOLDER, 'corpus.txt'), 'r') as f:
-#     for doc in f.readlines():
-#         doc = [word.lower() for word in doc if word.lower() not in filter and not contains_digits(word)]
-#         doc = nlp(doc)
-#         print([(w.text, w.pos_) for w in doc])
-#         breakpoint()
+
+class MyCorpus(object):
+    def __iter__(self):
+        for line in open('data/corpus.txt'):
+            # assume one document per line, tokens separated by whitespace
+            yield dictionary.doc2bow(" ".join(re.sub('[^ a-zA-Z]', '', word)
+                                     for word in line.lower().split() if word
+                                     not in filter and not contains_digits(word)))
 
 
 with open(os.path.join(DATA_FOLDER, 'corpus.txt'), 'r') as f:
     texts = [
-        [word.strip('[').strip(']').strip('(').strip(')') for word in doc.lower().split() if word
-         not in filter and not contains_digits(word)] for doc in f.readlines()
+        [re.sub('[^ a-zA-Z]', '', word) for word in doc.lower().split() if word
+         not in filter and not contains_digits(word)] for doc in f.readlines() if doc != "\n"
     ]
 
 frequency = defaultdict(int)
@@ -47,6 +49,25 @@ texts = [
     for text in texts
 ]
 
+dictionary = corpora.Dictionary(texts)
+dictionary.save('data/gensim.dict')
+corpus = [dictionary.doc2bow(text) for text in texts]
+corpora.MmCorpus.serialize('data/gensim.mm', corpus)
+
+# corpus_memory_friendly = MyCorpus()
+
+# model = Word2Vec(tokenized, min_count=1, size=300, workers=4, sg=1)
+
+
+## Spacy
+# with open(os.path.join(DATA_FOLDER, 'corpus.txt'), 'r') as f:
+#     for doc in f.readlines():
+#         doc = [word.lower() for word in doc if word.lower() not in filter and not contains_digits(word)]
+#         doc = nlp(doc)
+#         print([(w.text, w.pos_) for w in doc])
+#         breakpoint()
+
+## Tutorial
 # with open(os.path.join(DATA_FOLDER, 'corpus.txt'), 'r') as f:
 #     tokens = nltk.tokenize.sent_tokenize(f.read(), language='dutch')
 #     breakpoint()
@@ -59,10 +80,3 @@ texts = [
 #     for sentence in tokens:
 #         tokenized.append([word.lower() for word in sentence if word.lower()
 #                           not in filter and not contains_digits(word)])
-
-dictionary = corpora.Dictionary(texts)
-# dictionary.save('data/gensim.dict')
-
-# model = Word2Vec(tokenized, min_count=1, size=300, workers=4, sg=1)
-
-breakpoint()
