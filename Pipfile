@@ -15,6 +15,7 @@ gensim = "*"
 nltk = "*"
 spacy = "*"
 lxml = "*"
+cython = "*"
 
 [requires]
 python_version = "3.7"
